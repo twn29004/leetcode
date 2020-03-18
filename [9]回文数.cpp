@@ -27,6 +27,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+//AC
 class Solution {
 public:
     bool isPalindrome(int x) {

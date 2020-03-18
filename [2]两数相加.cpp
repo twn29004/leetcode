@@ -22,16 +22,62 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+
+//AC
+
+
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* l3 = new ListNode(0);
-        ListNode* M = new ListNode(0);
-        M->next = l3;
-        l3->val = l1->val + l2->val;
-        while(l1->next && l2->next){
-            
+    ListNode* l3 = new ListNode(0);
+    ListNode* M = l3;
+    bool carry = false;     //判断是否有进位
+
+    void add(ListNode* l){
+        while(l && carry){
+            ListNode* tmp =  new ListNode((l->val + carry) % 10);
+            M->next = tmp;
+            if(l->val + carry >= 10)
+                carry = true;
+            else
+                carry = false;
+            l = l->next;
+            M = M ->next;
         }
+        if(l){
+            M->next = l;
+        }
+    }
+
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* p = l1;
+        ListNode* q = l2;
+        while(p && q){
+           ListNode* tmp = new ListNode((l1->val + l2->val + carry) % 10);
+           M->next = tmp;
+           if(l1->val + l2->val + carry >= 10)
+               carry = true;
+           else
+               carry = false;
+           l1 = l1->next;
+           l2 = l2->next;
+           M = M->next;
+           p = l1;
+           q = l2;
+        }
+
+        if(l1 == NULL) {
+            add(l2);
+        }else if(l2 == NULL){
+            add(l1);
+        }
+
+        if(carry){
+            ListNode* tmp = new ListNode(carry);
+            M->next = tmp;
+        }
+
+        return l3->next;
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
