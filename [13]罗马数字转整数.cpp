@@ -57,7 +57,64 @@
 class Solution {
 public:
     int romanToInt(string s) {
-
+        int res = 0;
+        bool flag = false;
+        for(int i = 0;i < s.length();i ++){
+            flag = false;
+            switch(s[i]){
+                case 'M':
+                    res += 1000;
+                    break;
+                case 'D':
+                    res += 500;
+                    break;
+                case 'C':{
+                    if(s[i + 1] == 'D'){
+                        res += 400;
+                        flag = true;
+                    }
+                    if(s[i + 1] == 'M'){
+                        res += 900;
+                        flag = true;
+                    }
+                    if(!flag) res += 100;
+                    break;
+                }
+                case 'L':
+                    res += 50;
+                    break;
+                case 'X':{
+                    if(s[i + 1] == 'L'){
+                        res += 40;
+                        flag = true;
+                    }
+                    if(s[i + 1] == 'C'){
+                        res += 90;
+                        flag = true;
+                    }
+                    if(!flag)
+                        res += 10;
+                    break;
+                }
+                case 'V':
+                    res += 5;
+                    break;
+                case 'I':{
+                    if(s[i + 1] == 'V'){
+                        res += 4;
+                        flag = true;
+                    }
+                    if(s[i + 1] == 'X'){
+                        res += 9;
+                        flag = true;
+                    }
+                    if(!flag) res ++;
+                    break;
+                }
+            }
+            if(flag) i ++;
+        }
+        return res;
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
