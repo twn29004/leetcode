@@ -33,13 +33,22 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
+
+/*
+ * 	terminate called after throwing an instance of 'std::logic_error'
+ * 	由于没有对特殊情况进行判读，导致对空字符串进行操作产生的错误
+ * */
+
 class Solution {
 public:
     string convert(string s, int numRows) {
+
+
+        if(numRows == 0 || numRows == 1) return s;
+        if(s.length() == 0) return s;
+
+
         const int len = s.length();
-        if(len == 0) return 0;
-        if(numRows == 1)
-            return  s;
         cout<<"len = "<<len<<endl;
         int h_num = len / (2 * numRows - 2) + 1;
         cout<<"h_num = "<<h_num<<endl;

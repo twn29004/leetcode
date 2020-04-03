@@ -11,6 +11,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[1111]有效括号的嵌套深度.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[1111]有效括号的嵌套深度.cpp" />
+              <option name="questionId" value="1208" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[11]盛最多水的容器.cpp">
           <value>
             <LeetcodeEditor>
@@ -75,6 +83,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[19]删除链表的倒数第N个节点.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[19]删除链表的倒数第N个节点.cpp" />
+              <option name="questionId" value="19" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[1]两数之和.cpp">
           <value>
             <LeetcodeEditor>
@@ -91,11 +107,99 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[20]有效的括号.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[20]有效的括号.cpp" />
+              <option name="questionId" value="20" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[21]合并两个有序链表.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[21]合并两个有序链表.cpp" />
+              <option name="questionId" value="21" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[225]用队列实现栈.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[225]用队列实现栈.cpp" />
               <option name="questionId" value="225" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[22]括号生成.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[22]括号生成.cpp" />
+              <option name="questionId" value="22" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[23]合并K个排序链表.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[23]合并K个排序链表.cpp" />
+              <option name="questionId" value="23" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[24]两两交换链表中的节点.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[24]两两交换链表中的节点.cpp" />
+              <option name="questionId" value="24" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[25]K 个一组翻转链表.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[25]K 个一组翻转链表.cpp" />
+              <option name="questionId" value="25" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[26]删除排序数组中的重复项.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[26]删除排序数组中的重复项.cpp" />
+              <option name="questionId" value="26" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[27]移除元素.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[27]移除元素.cpp" />
+              <option name="questionId" value="27" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[289]生命游戏.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[289]生命游戏.cpp" />
+              <option name="questionId" value="289" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[28]实现 strStr().cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[28]实现 strStr().cpp" />
+              <option name="questionId" value="28" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[29]两数相除.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[29]两数相除.cpp" />
+              <option name="questionId" value="29" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -112,6 +216,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[300]最长上升子序列.cpp" />
               <option name="questionId" value="300" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[30]串联所有单词的子串.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[30]串联所有单词的子串.cpp" />
+              <option name="questionId" value="30" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[31]下一个排列.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[31]下一个排列.cpp" />
+              <option name="questionId" value="31" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -152,6 +272,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[443]压缩字符串.cpp" />
               <option name="questionId" value="443" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[4]寻找两个有序数组的中位数.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[4]寻找两个有序数组的中位数.cpp" />
+              <option name="questionId" value="4" />
             </LeetcodeEditor>
           </value>
         </entry>
