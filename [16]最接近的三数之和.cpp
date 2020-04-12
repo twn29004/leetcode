@@ -12,7 +12,8 @@
 class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
-        
+        int res = INT_MAX;
+
     }
 };
 //leetcode submit region end(Prohibit modification and deletion)
