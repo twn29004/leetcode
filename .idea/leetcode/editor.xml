@@ -11,6 +11,38 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[101]对称二叉树.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[101]对称二叉树.cpp" />
+              <option name="questionId" value="101" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[104]二叉树的最大深度.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[104]二叉树的最大深度.cpp" />
+              <option name="questionId" value="104" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[107]二叉树的层次遍历 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[107]二叉树的层次遍历 II.cpp" />
+              <option name="questionId" value="107" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[108]将有序数组转换为二叉搜索树.cpp" />
+              <option name="questionId" value="108" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[10]正则表达式匹配.cpp">
           <value>
             <LeetcodeEditor>
@@ -19,11 +51,51 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[110]平衡二叉树.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[110]平衡二叉树.cpp" />
+              <option name="questionId" value="110" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[1111]有效括号的嵌套深度.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[1111]有效括号的嵌套深度.cpp" />
               <option name="questionId" value="1208" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[111]二叉树的最小深度.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[111]二叉树的最小深度.cpp" />
+              <option name="questionId" value="111" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[112]路径总和.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[112]路径总和.cpp" />
+              <option name="questionId" value="112" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[118]杨辉三角.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[118]杨辉三角.cpp" />
+              <option name="questionId" value="118" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[119]杨辉三角 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[119]杨辉三角 II.cpp" />
+              <option name="questionId" value="119" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -40,6 +112,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[121]买卖股票的最佳时机.cpp" />
               <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[1248]统计「优美子数组」.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[1248]统计「优美子数组」.cpp" />
+              <option name="questionId" value="1370" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -107,6 +187,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[199]二叉树的右视图.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[199]二叉树的右视图.cpp" />
+              <option name="questionId" value="199" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[19]删除链表的倒数第N个节点.cpp">
           <value>
             <LeetcodeEditor>
@@ -120,6 +208,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[1]两数之和.cpp" />
               <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[200]岛屿数量.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[200]岛屿数量.cpp" />
+              <option name="questionId" value="200" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -395,11 +491,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[445]两数相加 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[445]两数相加 II.cpp" />
+              <option name="questionId" value="445" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[44]通配符匹配.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[44]通配符匹配.cpp" />
+              <option name="questionId" value="44" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[45]跳跃游戏 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[45]跳跃游戏 II.cpp" />
+              <option name="questionId" value="45" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[460]LFU缓存.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[460]LFU缓存.cpp" />
               <option name="questionId" value="460" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[466]统计重复个数.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[466]统计重复个数.cpp" />
+              <option name="questionId" value="466" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -459,11 +587,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[52]N皇后 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[52]N皇后 II.cpp" />
+              <option name="questionId" value="52" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[53]最大子序和.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[53]最大子序和.cpp" />
               <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[542]01 矩阵.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[542]01 矩阵.cpp" />
+              <option name="questionId" value="542" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -531,6 +675,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[62]不同路径.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[62]不同路径.cpp" />
+              <option name="questionId" value="62" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[63]不同路径 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[63]不同路径 II.cpp" />
+              <option name="questionId" value="63" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[64]最小路径和.cpp">
           <value>
             <LeetcodeEditor>
@@ -539,11 +699,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[65]有效数字.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[65]有效数字.cpp" />
+              <option name="questionId" value="65" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[66]加一.cpp">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[66]加一.cpp" />
               <option name="questionId" value="66" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[679]24 点游戏.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[679]24 点游戏.cpp" />
+              <option name="questionId" value="679" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -659,6 +835,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[80]删除排序数组中的重复项 II.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[80]删除排序数组中的重复项 II.cpp" />
+              <option name="questionId" value="80" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[820]单词的压缩编码.cpp">
           <value>
             <LeetcodeEditor>
@@ -763,6 +947,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/[面试题 08.11]硬币.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[面试题 08.11]硬币.cpp" />
+              <option name="questionId" value="100231" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/[面试题 16.03]交点.cpp">
           <value>
             <LeetcodeEditor>
@@ -784,6 +976,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/[面试题40]最小的k个数.cpp" />
               <option name="questionId" value="100301" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/[面试题51]数组中的逆序对.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/[面试题51]数组中的逆序对.cpp" />
+              <option name="questionId" value="100318" />
             </LeetcodeEditor>
           </value>
         </entry>

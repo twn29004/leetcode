@@ -32,9 +32,33 @@ public:
         return 0;
     }
 
+    void QuickSort(vector<vector<int>>& nums,int left,int right){
+        if(left >= right){
+            return;
+        }
+        vector<int> tmp = nums[left];
+        int tmp_left = left;
+        int tmp_right = right;
+
+        while(left < right){
+            while(left < right && nums[right] >= tmp) right --;
+            while(left < right && nums[left] <= tmp) left ++;
+            swap(nums[left],nums[right]);
+        }
+
+        swap(nums[tmp_left],nums[left]);
+        QuickSort(nums,tmp_left,left - 1);
+        QuickSort(nums,left + 1,tmp_right);
+    }
+
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
 
-        sort(intervals.begin(),intervals.end());
+        //sort(intervals.begin(),intervals.end());
+        QuickSort(intervals,0,intervals.size() - 1);
+
+        for(int i = 0;i < intervals.size();i ++){
+            cout<<intervals[i][0]<<" "<<intervals[i][1]<<endl;
+        }
 
         vector<vector<int>> res;
 
